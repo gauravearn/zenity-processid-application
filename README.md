@@ -28,6 +28,11 @@ else
                                 cut -f 2 -d "=" | uplot bar -d, -t "time latency"
 kill "${IP}"
 fi
+# if you are using in linux this one then use the timeout just remembered this
+                      # now so that it will make easy. updated at 12:46AM on Oct,18
+
+$timeout 100 ./zenity_plotter.sh
+
 ```
 
 Gaurav Sablok \
