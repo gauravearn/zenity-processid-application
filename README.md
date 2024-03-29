@@ -1,4 +1,4 @@
-# zenity_processid_application
+# zenity-processid-application
 when you start coding back in zenity before the glib and the gtk and want to see how much you remember before taking on gtk or the glib bindings, here it goes, a zenity based processid and it will kill automatically the process id after plotting.
 
 ![check](https://github.com/sablokgaurav/zenity_processid_application/blob/main/invoke_zenity_plotter.png)
