@@ -1,11 +1,10 @@
 # zenity-processid-application
-when you start coding back in zenity before the glib and the gtk and want to see how much you remember before taking on gtk or the glib bindings, here it goes, a zenity based processid and it will kill automatically the process id after plotting.
+
+a zenity based processid and it will kill automatically the process id after plotting.
 
 ![check](https://github.com/sablokgaurav/zenity_processid_application/blob/main/invoke_zenity_plotter.png)
 ![generate](https://github.com/sablokgaurav/zenity_processid_application/blob/main/plot_network.png)
 ![files](https://github.com/sablokgaurav/zenity_processid_application/blob/main/files_generated.png)
-
-I think i still remember well despite not coding in zenity for more than a year or so :D 
 
 ```
 #!/usr/bin/env bash
@@ -36,8 +35,8 @@ $timeout 100 ./zenity_plotter.sh
 ```
 
 Gaurav Sablok \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
-Python Packages Published : https://pypi.org/user/sablokgaurav/
-
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany 
