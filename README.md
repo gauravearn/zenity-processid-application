@@ -15,7 +15,11 @@ a zenity based processid and it will kill automatically the process id after plo
 # a zenity way of plotting the docker network and for killing the processids
 docker_address=$(zenity --forms --width=300 --height=100 \
                                                 --title "plot your ip address" \
-                                                                --add-entry="docker_address")
+                                                                --add-entry="docker_address")Gaurav \
+ORCID: https://orcid.org/0000-0002-4157-9405 \
+WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
+RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
+Python Packages Published : https://pypi.org/user/sablokgaurav/
 IP="$docker_address"
 if [[ -z "IP" ]]
 then
@@ -34,7 +38,7 @@ $timeout 100 ./zenity_plotter.sh
 
 ```
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
